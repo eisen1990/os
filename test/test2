@@ -1,0 +1,65 @@
+#! /bin/bash
+
+echo "exe5 start"
+for i in {1..20}
+do
+	./exe5 >> data5
+	sleep 3
+done
+sleep 5
+
+echo "exe6 start"
+for i in {1..20}
+do
+	./exe6 >> data6
+	sleep 3
+done
+sleep 5
+
+echo "exe7 start"
+for i in {1..20}
+do
+	./exe7 >> data7
+	sleep 3
+done
+sleep 5
+
+echo "exe8 start"
+for i in {1..20}
+do
+	./exe8 >> data8
+	sleep 3
+done
+sleep 5
+
+echo "exe9 start"
+for i in {1..20}
+do
+	./exe9 >> data9
+	sleep 3
+done
+sleep 5
+
+echo "exe10 start"
+for i in {1..20}
+do
+	./exe10 >> data10
+	sleep 3
+done
+sleep 5
+
+echo "exe11 start"
+for i in {1..20}
+do
+	./exe11 >> data11
+	sleep 3
+done
+sleep 5
+
+echo "exe12 start"
+for i in {1..20}
+do
+	./exe12 >> data12
+	sleep 3
+done
+sleep 5
